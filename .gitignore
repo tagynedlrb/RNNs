@@ -1,0 +1,10 @@
+alibaba_trace/
+
+RNN/trained_rnn_*/
+RNN/__pycache__/
+GRU/trained_gru_*/
+GRU/__pycache__/
+LSTM/trained_lstm_*/
+LSTM/__pycache__/
+
+
