@@ -1,4 +1,5 @@
 alibaba_trace/
+processed_chunks_1m_R/
 
 **/trained_*/
 **/__pycache__/
