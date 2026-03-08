@@ -1,0 +1,13 @@
+=== READ RATIO PERCENTILES ===
+Percentile 100: trace_10 | Read Ratio: 99.89223191101382% | Read Request: 2753756122
+Percentile 75: trace_283 | Read Ratio: 9.401421320104886% | Read Request: 2479670
+Percentile 50: trace_372 | Read Ratio: 1.0952782370932357% | Read Request: 202690
+Percentile 25: trace_661 | Read Ratio: 0.03951962144258489% | Read Request: 6392
+Percentile 0: trace_182 | Read Ratio: 0.0% | Read Request: 0
+
+=== WRITE RATIO PERCENTILES ===
+Percentile 100: trace_182 | Write Ratio: 100.0% | Write Request: 4410347
+Percentile 75: trace_661 | Write Ratio: 99.96048037855742% | Write Request: 16167852
+Percentile 50: trace_372 | Write Ratio: 98.90472176290676% | Write Request: 18303110
+Percentile 25: trace_283 | Write Ratio: 90.59857867989511% | Write Request: 23895810
+Percentile 0: trace_10 | Write Ratio: 0.10776808898617674% | Write Request: 2970872
