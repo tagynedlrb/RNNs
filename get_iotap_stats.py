@@ -6,8 +6,8 @@ from collections import Counter
 from tqdm import tqdm
 import re
 
-TRACE_DIR = "./test_trace_lstm5"
-OUTPUT_CSV = "./test_trace_iotap_stats_lstm5.csv"
+TRACE_DIR = "./test_trace_lstm6"
+OUTPUT_CSV = "./test_trace_iotap_stats_lstm6.csv"
 
 # ============ 헤더 생성(253개) ============
 def build_feature_headers():
