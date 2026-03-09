@@ -18,9 +18,9 @@ import matplotlib.pyplot as plt
 
 
 # ===== 사용자 설정 =====
-ORIGINAL_TRACE = "test_trace_lstm4_plot/trace_283"
-INFER_CSV = "test_trace_lstm4_plot/trace_283_lstm_lba_o_delta_lr4"
-OUTPUT_DIR = "plot_inference_lstm4"
+ORIGINAL_TRACE = "test_trace_lstm5_plot/trace_283"
+INFER_CSV = "test_trace_lstm5_plot/trace_283_lstm_lba_o_delta_lr5"
+OUTPUT_DIR = "plot_inference_lstm5"
 
 # ===== 원본 트레이스 로딩 =====
 def load_original_trace(path):
